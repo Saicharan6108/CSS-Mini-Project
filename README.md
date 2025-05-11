@@ -1,19 +1,24 @@
-Photography Website Homepage (CSS Mini Project)
+Photography Website Homepage (CSS Mini Project):
+
 This is a simple photography website homepage built using HTML and CSS. The main feature of this mini project is a sliding navigation bar implemented using only CSS, without any JavaScript.
 
-Features
-Responsive homepage layout for a photography website
+Features:
 
-Sliding navigation bar created with pure CSS
+1. Responsive homepage layout for a photography website
 
-Clean and minimal design
+2. Sliding navigation bar created with pure CSS
 
-Uses only HTML and CSS (no JavaScript)
+3. Clean and minimal design
 
-Technologies Used
-HTML5
+4. Uses only HTML and CSS (no JavaScript)
 
-CSS3
+
+Technologies Used:
+
+1. HTML5
+
+2. CSS3
+
 
 OUTPUT:
 
